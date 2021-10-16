@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan from Turkey.</h1>
-<h3 align="center">After realizing that I like to read and re-create algorithms, I decided to become a developer. I'm currently learning Node.JS, Vue.JS, HTML, CSS, Java. Gonna add more to that list 💪.</h3>
+<h3 align="center">After realizing that I like to read and re-create algorithms, I decided to become a developer. I'm currently learning Node.JS, HTML, CSS. Gonna add more to that list 💪.</h3>
 
 
 <h3 align="left">Contact with me:</h3>
